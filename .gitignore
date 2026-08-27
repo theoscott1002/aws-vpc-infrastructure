@@ -4,3 +4,5 @@
 .terraform.lock.hcl
 *.tfvars
 *.tfvars.json
+*.pem
+*.ppk
